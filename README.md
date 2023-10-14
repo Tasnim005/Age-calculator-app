@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [Live preview](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/Tasnim005/Age-calculator-app)
+- Live Site URL: [Live preview](https://tasnim005.github.io/Age-calculator-app/)
 
 ## My process
 
